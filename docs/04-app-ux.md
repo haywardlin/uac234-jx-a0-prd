@@ -1,5 +1,8 @@
 # 04 App页面与体验
 
+> 最新设计交接补充：[App UI/UX 网页与可点击原型](https://haywardlin.github.io/uac234-jx-a0-prd/app-uiux.html) · [23页功能与交互说明](./16-app-uiux.md)。包含成长记录、更新结果和自定义覆盖提示；本章保留完整 PRD 的19页基线定义。
+
+
 [返回完整PRD目录](../README.md) · [上一章](./03-app-protocol.md) · [下一章](./05-emotion.md)
 
 保留客户页面的信息组织，按当前养成与动作逻辑重新定义。
